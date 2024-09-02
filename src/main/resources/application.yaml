@@ -1,0 +1,9 @@
+# https://docs.camunda.io/docs/apis-tools/spring-zeebe-sdk/getting-started/
+# https://docs.camunda.io/docs/apis-tools/spring-zeebe-sdk/configuration/
+
+zeebe.client:
+  cloud:
+    region:
+    clusterId:
+    clientId:
+    clientSecret:

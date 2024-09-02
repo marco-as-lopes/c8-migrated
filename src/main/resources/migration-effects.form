@@ -1,0 +1,46 @@
+{
+  "components": [
+    {
+      "label": "BPMN",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_16hn3hu",
+        "columns": null
+      },
+      "id": "Field_1v3i5ye",
+      "key": "BPMNSideEffect",
+      "readonly": true
+    },
+    {
+      "label": "DMN",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0jde20a",
+        "columns": null
+      },
+      "id": "Field_1kur756",
+      "key": "DMNSideEffect",
+      "readonly": true
+    },
+    {
+      "label": "Source code",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1di7ljr",
+        "columns": null
+      },
+      "id": "Field_058qhvy",
+      "key": "sourceCodeSideEffect",
+      "readonly": true
+    }
+  ],
+  "type": "default",
+  "id": "migration-effects",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.26.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.21.0",
+  "schemaVersion": 16
+}
